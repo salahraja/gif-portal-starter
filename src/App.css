@@ -22,7 +22,7 @@
 
 .header {
   margin: 0;
-  font-size: 50px;
+  font-size: 51px;
   font-weight: bold;
   color: white;
 }
@@ -111,7 +111,7 @@
   object-fit: cover;
 }
 
-.connected-container input[type='text'] {
+.connected-container input[type="text"] {
   display: inline-block;
   color: white;
   padding: 10px;
